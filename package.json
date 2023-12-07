@@ -1,0 +1,17 @@
+{
+  "name": "girl-getter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.16.0",
+    "airtable": "^0.12.2",
+    "dotenv": "^16.3.1"
+  }
+}
